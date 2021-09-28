@@ -11,5 +11,8 @@
 
 class GameRound (val player: ArrayList<ArrayList<Int>>) {
 
+    fun bato:(var bato:Int, val bato:Char)Int {
+        // Code
 
+    }
 }
